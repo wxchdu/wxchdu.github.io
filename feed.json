@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gretty Fly",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/05/26/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/",
+            "url": "http://example.com/2024/05/26/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/",
+            "title": "",
+            "date_published": "2024-05-26T13:56:57.866Z",
+            "content_html": "<p>1. 有了解过哪些前端框架<br>\n 2.vue 和 react 有什么区别<br>\n 3.vue 可以实现交互吗<br>\n 4. 项目中有哪些状态信息管理（回答 pinia 管理登录信息和 token 令牌）<br>\n5. 单页和多页的区别<br>\n 6. 单页的优点<br>\n 7. 单页的缺点（数据加载多）<br>\n8. 如何解决这个问题（webpack，代码的复用，隐藏一些不可见元素）<br>\n9. 路由的实现，用的什么模式，history 模式<br>\n 10. 场景题<br>\n前端发送 500000 个数据给后端会有什么问题（服务器压力过大，数据访问出错）<br>\n如何解决<br>\n（用 promise 对象发送几个请求）<br>\n了解 promise.all 吗</p>\n",
+            "tags": []
+        },
+        {
+            "id": "http://example.com/2024/05/26/hello-world/",
+            "url": "http://example.com/2024/05/26/hello-world/",
+            "title": "Hello World",
+            "date_published": "2024-05-26T11:57:01.757Z",
+            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"Quick-Start\"><a href=\"#Quick-Start\" class=\"headerlink\" title=\"Quick Start\"></a>Quick Start</h2><h3 id=\"Create-a-new-post\"><a href=\"#Create-a-new-post\" class=\"headerlink\" title=\"Create a new post\"></a>Create a new post</h3><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n\n<p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"Run-server\"><a href=\"#Run-server\" class=\"headerlink\" title=\"Run server\"></a>Run server</h3><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n\n<p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"Generate-static-files\"><a href=\"#Generate-static-files\" class=\"headerlink\" title=\"Generate static files\"></a>Generate static files</h3><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n\n<p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"Deploy-to-remote-sites\"><a href=\"#Deploy-to-remote-sites\" class=\"headerlink\" title=\"Deploy to remote sites\"></a>Deploy to remote sites</h3><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n\n<p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
+            "tags": []
+        },
+        {
+            "id": "http://example.com/2023/08/17/My-New-Post/",
+            "url": "http://example.com/2023/08/17/My-New-Post/",
+            "title": "My New Post",
+            "date_published": "2023-08-17T08:32:52.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
+}
