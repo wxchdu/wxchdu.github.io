@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Gretty Fly • Posts by &#34;面试记录&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 27 May 2024 09:12:48 +0800</pubDate>
+        <lastBuildDate>Mon, 27 May 2024 09:12:48 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/</guid>
+            <title>腾讯一面</title>
+            <link>http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/</link>
+            <pubDate>Mon, 27 May 2024 09:12:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;1. 有了解过哪些前端框架&lt;br /&gt;
+ 2.vue 和 react 有什么区别&lt;br /&gt;
+ 3.vue 可以实现交互吗&lt;br /&gt;
+ 4. 项目中有哪些状态信息管理（回答 pinia 管理登录信息和 token 令牌）&lt;br /&gt;
+5. 单页和多页的区别&lt;br /&gt;
+ 6. 单页的优点&lt;br /&gt;
+ 7. 单页的缺点（数据加载多）&lt;br /&gt;
+8. 如何解决这个问题（webpack，代码的复用，隐藏一些不可见元素）&lt;br /&gt;
+9. 路由的实现，用的什么模式，history 模式&lt;br /&gt;
+ 10. 场景题&lt;br /&gt;
+前端发送 500000 个数据给后端会有什么问题（服务器压力过大，数据访问出错）&lt;br /&gt;
+如何解决&lt;br /&gt;
+（用 promise 对象发送几个请求）&lt;br /&gt;
+了解 promise.all 吗&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

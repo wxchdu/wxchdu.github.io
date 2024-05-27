@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gretty Fly • All posts by \"面试记录\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/",
+            "url": "http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/",
+            "title": "腾讯一面",
+            "date_published": "2024-05-27T01:12:48.000Z",
+            "content_html": "<p>1. 有了解过哪些前端框架<br />\n 2.vue 和 react 有什么区别<br />\n 3.vue 可以实现交互吗<br />\n 4. 项目中有哪些状态信息管理（回答 pinia 管理登录信息和 token 令牌）<br />\n5. 单页和多页的区别<br />\n 6. 单页的优点<br />\n 7. 单页的缺点（数据加载多）<br />\n8. 如何解决这个问题（webpack，代码的复用，隐藏一些不可见元素）<br />\n9. 路由的实现，用的什么模式，history 模式<br />\n 10. 场景题<br />\n前端发送 500000 个数据给后端会有什么问题（服务器压力过大，数据访问出错）<br />\n如何解决<br />\n（用 promise 对象发送几个请求）<br />\n了解 promise.all 吗</p>\n",
+            "tags": []
+        }
+    ]
+}
