@@ -1,16 +1,20 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>worked warriors</title>
-    <link href="http://example.com" />
-    <updated>2024-05-28T01:12:48.000Z</updated>
-    <category term="vue,学习,面经" />
-    <category term="面经" />
-    <entry>
-        <id>http://example.com/2024/05/28/vue%E7%B3%BB%E5%88%97/</id>
-        <title>vue系列</title>
-        <link rel="alternate" href="http://example.com/2024/05/28/vue%E7%B3%BB%E5%88%97/"/>
-        <content type="html">&lt;h1 id=&#34;vue相关面试问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue相关面试问题&#34;&gt;#&lt;/a&gt; vue 相关面试问题&lt;/h1&gt;
+<rss version="2.0">
+    <channel>
+        <title>worked warriors • Posts by &#34;平时学习&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 28 May 2024 09:12:48 +0800</pubDate>
+        <lastBuildDate>Tue, 28 May 2024 09:12:48 +0800</lastBuildDate>
+        <category>vue,学习,面经</category>
+        <category>面经</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/28/vue%E7%B3%BB%E5%88%97/</guid>
+            <title>vue系列</title>
+            <link>http://example.com/2024/05/28/vue%E7%B3%BB%E5%88%97/</link>
+            <pubDate>Tue, 28 May 2024 09:12:48 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;vue相关面试问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue相关面试问题&#34;&gt;#&lt;/a&gt; vue 相关面试问题&lt;/h1&gt;
 &lt;h2 id=&#34;vue的生命周期&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue的生命周期&#34;&gt;#&lt;/a&gt; vue 的生命周期&lt;/h2&gt;
 &lt;p&gt;​	Vue 生命周期总共可以分为 8 个阶段&lt;/p&gt;
 &lt;table&gt;
@@ -251,28 +255,7 @@
 &lt;p&gt;&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;&lt;span class=&#34;title class_&#34;&gt;Comp&lt;/span&gt; :key=&lt;span class=&#34;string&#34;&gt;&amp;quot;+new Date()&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;在不使用 &lt;code&gt;key&lt;/code&gt;  的情况，vue 会原地复用修改 DOM 值增加 DOM 操作&lt;/p&gt;
 &lt;p&gt;设置 key 值不一定能提高 diff 效率。&lt;/p&gt;
-</content>
-        <updated>2024-05-28T01:12:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/</id>
-        <title>腾讯一面</title>
-        <link rel="alternate" href="http://example.com/2024/05/27/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2/"/>
-        <content type="html">&lt;p&gt;1. 有了解过哪些前端框架&lt;br /&gt;
- 2.vue 和 react 有什么区别&lt;br /&gt;
- 3.vue 可以实现交互吗&lt;br /&gt;
- 4. 项目中有哪些状态信息管理（回答 pinia 管理登录信息和 token 令牌）&lt;br /&gt;
-5. 单页和多页的区别&lt;br /&gt;
- 6. 单页的优点&lt;br /&gt;
- 7. 单页的缺点（数据加载多）&lt;br /&gt;
-8. 如何解决这个问题（webpack，代码的复用，隐藏一些不可见元素）&lt;br /&gt;
-9. 路由的实现，用的什么模式，history 模式&lt;br /&gt;
- 10. 场景题&lt;br /&gt;
-前端发送 500000 个数据给后端会有什么问题（服务器压力过大，数据访问出错）&lt;br /&gt;
-如何解决&lt;br /&gt;
-（用 promise 对象发送几个请求）&lt;br /&gt;
-了解 promise.all 吗&lt;/p&gt;
-</content>
-        <updated>2024-05-27T01:12:48.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
