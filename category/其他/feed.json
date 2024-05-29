@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "worked warriors • All posts by \"其他\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/05/29/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
+            "url": "http://example.com/2024/05/29/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
+            "title": "常用命令",
+            "date_published": "2024-05-29T01:12:48.000Z",
+            "content_html": "<h1 id=\"npm镜像源\"><a class=\"anchor\" href=\"#npm镜像源\">#</a> npm 镜像源</h1>\n<p>使用<strong>淘宝</strong>镜像源加速 NPM</p>\n<p><figure class=\"highlight typescript\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">npm config set registry <span class=\"attr\">https</span>:<span class=\"comment\">//registry.npmmirror.com</span></span><br></pre></td></tr></table></figure></p>\n<p>使用<strong>阿里云</strong> 镜像源加速 NPM</p>\n<p><figure class=\"highlight typescript\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">npm config set registry <span class=\"attr\">https</span>:<span class=\"comment\">//npm.aliyun.com</span></span><br></pre></td></tr></table></figure></p>\n<p>返回<strong> npm 官方原始镜像</strong></p>\n<p><figure class=\"highlight typescript\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">npm config set registry <span class=\"attr\">https</span>:<span class=\"comment\">//registry.npmjs.org/</span></span><br></pre></td></tr></table></figure></p>\n<h1 id=\"ts相关命令\"><a class=\"anchor\" href=\"#ts相关命令\">#</a> ts 相关命令</h1>\n<p>使用  <code>npm</code>  进行安装</p>\n<p><figure class=\"highlight coffeescript\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"comment\">## Windows版</span></span><br><span class=\"line\"><span class=\"built_in\">npm</span> install -g typescript</span><br></pre></td></tr></table></figure></p>\n<p>ts 编译命令</p>\n<p>使用以下命令，逐个编译文件。</p>\n<p><figure class=\"highlight csharp\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"meta\">## 首先进入到上面文件的目录（cd xxxxxx)</span></span><br><span class=\"line\">tsc app.ts</span><br><span class=\"line\"><span class=\"meta\">## 使用-w可以监视编译    </span></span><br><span class=\"line\">tsc app.ts -w</span><br></pre></td></tr></table></figure></p>\n",
+            "tags": [
+                "工具"
+            ]
+        }
+    ]
+}
